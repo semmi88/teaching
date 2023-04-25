@@ -1,5 +1,5 @@
 ## Machine Learning - Tech Course
- - Neural Networks - and training machine learning algorithms
+ - Intro to Neural Networks
    - Thoery: slides
    - Workshop: excel worksheet
  - Word Vectors
@@ -7,3 +7,5 @@
    - Workshop: Jupyter notebook
 
 ## Machine Learning - Data Ethics Course
+
+- Bias & Fairness in ML - slides
