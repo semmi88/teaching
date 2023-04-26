@@ -1,10 +1,7 @@
 ## Machine Learning - Tech Course
- - Intro to Neural Networks
-   - Thoery: slides
-   - Workshop: excel worksheet
- - Word Vectors
-   - Theory: slides
-   - Workshop: Jupyter notebook
+ - Intro to Neural Networks (slides + excel worksheet)
+ - Word Vectors (slides + Jupyter notebook)
+ - Using Large Language models
 
 ## Machine Learning - Data Ethics Course
 
