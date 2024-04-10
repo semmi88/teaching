@@ -3,7 +3,7 @@
 
 - AI watermarking
 - LLM vulnerabilities
-- Colab Notebook - LLM read teaming | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/semmi88/teaching/blob/main/MCC_2024_Apr/llm_mcc.ipynb)
+- Colab Notebook - LLM read teaming | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/semmi88/teaching/blob/main/MCC_2024_Apr/llm_gguf_2024.ipynb)
 
 # Reinforcement Learning
 - RL intro
